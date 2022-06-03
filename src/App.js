@@ -9,7 +9,7 @@ function App() {
         <p>
           This is a basic application for SITA
         </p>
-        <p>v0.1.0</p>
+        <p>v0.1.1</p>
       </header>
     </div>
   );
